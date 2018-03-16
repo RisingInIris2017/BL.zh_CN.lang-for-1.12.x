@@ -5,6 +5,9 @@
 A l16n for minecraft mod[_"The Betweenlands"_](https://github.com/Angry-Pixel/The-Betweenlands)
 
 which makes it more friendly to Chinese Players.
+
+Made by many kind hearts, and with love.
+
 ___
 Minecraft模组The Betweenlands的中文本地化(汉化)文件。
 
@@ -12,7 +15,7 @@ Minecraft模组The Betweenlands的中文本地化(汉化)文件。
 
 这一汉化文件将由[__最大的中文Minecraft模组百科 - MCMOD百科__](http://www.mcmod.cn/)的用户，
 
-包括特别负责The Betweenlands模组的编辑员，和许许多多的热心用户进行不断地修正、更新、完善。
+包括特别负责The Betweenlands模组的编辑员（包括我），和许许多多的热心用户进行不断地修正、更新、完善。
 
 ___
 
