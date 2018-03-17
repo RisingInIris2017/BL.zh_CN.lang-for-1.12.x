@@ -1,6 +1,6 @@
-# BL.zh_CN.lang-for-1.12.x
+# zh_CN.lang-for-The Betweenlands 1.12.x
 
-## 简要的介绍 - A Brief introduction
+## 简要的介绍 - A brief introduction
 
 A l16n for minecraft mod[_"The Betweenlands"_](https://github.com/Angry-Pixel/The-Betweenlands)
 
