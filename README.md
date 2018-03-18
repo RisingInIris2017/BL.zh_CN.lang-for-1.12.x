@@ -4,7 +4,11 @@
 
 A l16n for minecraft mod[_"The Betweenlands"_](https://github.com/Angry-Pixel/The-Betweenlands)
 
-which makes it more friendly to Chinese Players.
+Based on its version Release 3.3.1, but it may work well when you applied it on version Release 3.3.0.
+
+After the first version of this zh_CN.lang is finished, we will update it for the latest version of _The Betweenlands_.
+
+This project aims to make this perfect mod more friendly to Chinese Players.
 
 Made by many kind hearts, and with love.
 
