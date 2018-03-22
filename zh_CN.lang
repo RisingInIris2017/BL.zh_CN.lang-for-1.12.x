@@ -451,7 +451,7 @@ item.thebetweenlands.kraken_tentacle.name=海妖触须
 item.thebetweenlands.lichen_item.name=地衣团
 item.thebetweenlands.limestone_flux.name=石灰粉
 item.thebetweenlands.lonely_fire.name=孤独星火唱片
-item.thebetweenlands.lurker_skin.name=潜尾鳄的皮
+item.thebetweenlands.lurker_skin.name=潜尾鳄皮
 item.thebetweenlands.lurker_skin_boots.name=鳄皮靴子
 item.thebetweenlands.lurker_skin_chestplate.name=鳄皮胸甲
 item.thebetweenlands.lurker_skin_helmet.name=鳄皮头盔
@@ -764,7 +764,7 @@ tooltip.infusion.empty=空
 
 tooltip.bl.elixir.potency=§9效果：%s
 tooltip.bl.elixir.duration=§9时长：%s（%s）
-tooltip.bl.elixir.when_applied=§5生效时:
+tooltip.bl.elixir.when_applied=§5生效时：
 tooltip.bl.elixir.foggedMind.effect=忧愁扰乱了清晰的思维，\n迷雾遮挡了明亮的眼睛
 tooltip.bl.elixir.heavyweight.effect=魔法成了行动的镣铐，\n无法挣脱水和污泥，\n其他魔力也无济于事
 tooltip.bl.elixir.basilisk.effect=剧毒击穿了运动神经，\n微小的移动也难如登天
@@ -1336,22 +1336,22 @@ advancements.thebetweenlands.craftsman.all_over_again.title=All Over Again
 advancements.thebetweenlands.craftsman.all_over_again.description=制造一个杂草木工作台
 advancements.thebetweenlands.craftsman.efficiency.title=Efficiency
 advancements.thebetweenlands.craftsman.efficiency.description=制造一个硫磺熔炉
-advancements.thebetweenlands.craftsman.freebies.title=Freebies
+advancements.thebetweenlands.craftsman.freebies.title=增产
 advancements.thebetweenlands.craftsman.freebies.description=使用石灰粉配合硫磺熔炉以获得双倍产出
 
 # Miner
 advancements.thebetweenlands.miner.root.title=Miner
 advancements.thebetweenlands.miner.root.description=Going deeper
 advancements.thebetweenlands.miner.advanced_darkness.title=Advanced Darkness
-advancements.thebetweenlands.miner.advanced_darkness.description=Enter a cave
-advancements.thebetweenlands.miner.new_shinies.title=New Shinies
-advancements.thebetweenlands.miner.new_shinies.description=获得赛摩铜或者辛炔锭
+advancements.thebetweenlands.miner.advanced_darkness.description=进入一个洞穴
+advancements.thebetweenlands.miner.new_shinies.title=新起点
+advancements.thebetweenlands.miner.new_shinies.description=获得赛摩铜锭或者辛炔锭
 advancements.thebetweenlands.miner.spelunking.title=Spelunking
-advancements.thebetweenlands.miner.spelunking.description=Find your way back by using Caving Rope
+advancements.thebetweenlands.miner.spelunking.description=使用洞穴引路绳寻找回家的路
 advancements.thebetweenlands.miner.rock_bottom.title=Rock Bottom
-advancements.thebetweenlands.miner.rock_bottom.description=Enter the 麻纹石 Caves
+advancements.thebetweenlands.miner.rock_bottom.description=进入麻纹石洞穴
 advancements.thebetweenlands.miner.get_schwifty.title=Get Schwifty
-advancements.thebetweenlands.miner.get_schwifty.description=Obtain a Swift Pick
+advancements.thebetweenlands.miner.get_schwifty.description=获得一把迅捷镐
 
 # Config
 config.thebetweenlands.world_and_dimension=世界与维度
@@ -1387,7 +1387,7 @@ config.thebetweenlands.max_entities_per_loaded_area=每个加载区域的最大�
 config.thebetweenlands.hard_entity_limit=每个世界的最大实体数
 
 config.thebetweenlands.compatibility=兼容性
-config.thebetweenlands.show_non_bl_fluids=Show Non BL Fluid桶s
+config.thebetweenlands.show_non_bl_fluids=显示非交错次元的流体桶
 config.thebetweenlands.show_non_bl_gem_recipes=JEI显示非交错次元模组的宝石配方
 
 config.thebetweenlands.online_event_overrides=Online Environment Event Overrides
