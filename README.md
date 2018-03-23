@@ -47,7 +47,7 @@ ___
 
 Pull Request将在初版汉化文件通过大佬的检验之后发给Angry Pixel方面。
 
-__另外，本项目已授权加入[Minecraft Mod Language Package - Minecraft 简体中文资源包项目。](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)__
+__另外，本项目已授权加入[Minecraft Mod Language Package - Minecraft 简体中文资源包项目](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)__。
 
 ___
 
