@@ -4,9 +4,7 @@
 
 A l16n for minecraft mod[_"The Betweenlands"_](https://github.com/Angry-Pixel/The-Betweenlands)
 
-Based on its latest version Release 3.3.4.
-
-However, it can work well with all Release versions.
+It is based on its latest version Release 3.3.4, but it can work well with all Release versions.
 
 And we will update it for the latest version of _The Betweenlands_.
 
@@ -17,7 +15,11 @@ Made by many kind hearts, and with love.
 ___
 Minecraft模组The Betweenlands的中文本地化(汉化)文件。
 
-此次更新正式支持。
+从本次更新起，汉化文件**基于目前的最新版本**Release 3.3.4汉化，
+
+但是**经测试1.12.2的几个版本均可使用。**
+
+（事实上，之前版本的行数与新版本相差的1行是文件末尾的空行:P）
 
 这一汉化文件将由[__最大的中文Minecraft模组百科 - MCMOD百科__](http://www.mcmod.cn/)的用户，
 
@@ -29,8 +31,6 @@ ___
 
 **目前所有条目的汉化已经全部初步完成。**
 
-从本次更新起，汉化文件基于目前的最新版本Release 3.3.4汉化，经测试1.12.2的几个版本均可使用。
-
 之前的版本出现了编码方式的错误，可能会导致汉化文件无法正常使用，现已修复。
 
 不出意外的情况下，接下来的更新都会是细节上的，比如某些词语的具体翻译方式、标点符号等。
@@ -39,11 +39,11 @@ ___
 
 **特殊记号**，本次更新开始进行排版，欢迎测试。
 
-**药学部分** ，由于可能存在不准确的内容，需要在游戏内的测试来帮助进一步优化。
-
 **进度系统**，又到了作者和汉化一起疯狂玩梗的时候了，有什么我玩得不好的地方 我什么都会改的(迫真)
 
-**Mod选项配置部分**，这部分的汉化失误会带来很严重的后果，我想我必须谨慎一些。
+**Mod选项配置部分**，这部分的汉化失误会带来很严重的后果，我想我必须谨慎一些。但目前来看，
+
+除了天气事件的特殊机制外，没有特别的翻译疑点。
 
 欢迎有空的小伙伴提供帮助和宝贵意见。
 
@@ -83,9 +83,9 @@ __\*__ _使用是否需要授权？_
 
   在你**遵守The Betweenlands模组本身的 *所有* 版权协议的前提下**，你可以发布它，只需要将模组的文件名带上
 
-  __(Risinginiris2017汉化)__
+  __(MCMOD百科汉化)__
 
-  的字样即可，无需向作者要求授权。
+  的字样即可，无需向任何一位本汉化文件的作者要求授权。
 
 __
 
