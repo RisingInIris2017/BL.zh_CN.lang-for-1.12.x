@@ -4,9 +4,11 @@
 
 A l16n for minecraft mod[_"The Betweenlands"_](https://github.com/Angry-Pixel/The-Betweenlands)
 
-Based on its version Release 3.3.1, but it may work well when you applied it on version Release 3.3.0.
+Based on its latest version Release 3.3.4.
 
-After the first version of this zh_CN.lang is finished, we will update it for the latest version of _The Betweenlands_.
+However, it can work well with all Release versions.
+
+And we will update it for the latest version of _The Betweenlands_.
 
 This project aims to make this perfect mod more friendly to Chinese Players.
 
@@ -15,7 +17,7 @@ Made by many kind hearts, and with love.
 ___
 Minecraft模组The Betweenlands的中文本地化(汉化)文件。
 
-到目前为止，我只进行Release 3.3.1版本的汉化，但这个汉化文件同样也适用于Release 3.3.0版本。
+此次更新正式支持。
 
 这一汉化文件将由[__最大的中文Minecraft模组百科 - MCMOD百科__](http://www.mcmod.cn/)的用户，
 
@@ -27,15 +29,15 @@ ___
 
 **目前所有条目的汉化已经全部初步完成。**
 
+从本次更新起，汉化文件基于目前的最新版本Release 3.3.4汉化，经测试1.12.2的几个版本均可使用。
+
 之前的版本出现了编码方式的错误，可能会导致汉化文件无法正常使用，现已修复。
 
 不出意外的情况下，接下来的更新都会是细节上的，比如某些词语的具体翻译方式、标点符号等。
 
 值得关注的、可能影响各位的游戏体验的部分有以下这些
 
-**特殊记号**，汉化文件中出现了\n，\<scale>等似乎是别的语言的格式代码，似乎会影响到游戏中文字的显示情况，
-  
-  例如换行、字号(?)等。但是尤其对于\<scale>，我对其具体影响并不了解；由于英汉语言差异，换行的排版效果也有待检验。
+**特殊记号**，本次更新开始进行排版，欢迎测试。
 
 **药学部分** ，由于可能存在不准确的内容，需要在游戏内的测试来帮助进一步优化。
 
