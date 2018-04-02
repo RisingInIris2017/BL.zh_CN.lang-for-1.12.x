@@ -29,40 +29,13 @@ ___
 
 ## 目前的进展 - What we have done
 
-**目前所有条目的汉化和排版工作已经全部完成。**
+__现在本汉化项目已经被The Betweenlands模组并入模组文件成为官方汉化，目前的更新适用于Release 3.3.0-3.3.4版本。__
 
-之前的版本出现了编码方式的错误，可能会导致汉化文件无法正常使用，现已修复。
+另外，本项目已加入[Minecraft Mod Language Package - Minecraft 简体中文资源包项目](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)。
 
-不出意外的情况下，接下来的更新都会是细节上的，
+我将对The Betweenlands模组本身、中文资源包项目和这个项目三个地方的汉化文件尽可能地同步更新。
 
-关注点也将放到以下的方面：
-
-再斟酌一下某些很难翻译的物品的名称，比如几种矿石；
-
-**进度系统**，又到了作者和汉化一起疯狂玩梗的时候了，有什么我玩得不好的地方 我什么都会改的(迫真)
-
-**Mod选项配置部分**，这部分的汉化失误会带来很严重的后果，我想我必须谨慎一些。
-
-但目前来看，除了天气事件的特殊机制外，没有特别的翻译疑点。
-
-欢迎有空的小伙伴提供帮助和宝贵意见。
-
-Pull Request将在初版汉化文件通过大佬的检验之后发给Angry Pixel方面。
-
-__另外，本项目已授权加入[Minecraft Mod Language Package - Minecraft 简体中文资源包项目](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)__。
-
-___
-
-## 使用和更新方法 - How to use and update
-
-在没有被Angry Pixel团队包含进模组之前，你需要自己安装它。
-
-只需要任意一款压缩软件，右键点击你的模组jar文件，在菜单中选择“查看压缩包”，点击assets/thebetweenlands/lang，
-
-将下载好的汉化文件拖入其中，点击确定即可。
-
-更新的方法完全一样，只要下载新的版本，用同样方法加入mod的jar文件，覆盖旧的zh_CN.lang就可以了。
-
+在这背后是MC百科社区的共同努力，再一次地感谢你们！！
 ___
 
 ## 其他说明 - Some another words
@@ -80,7 +53,7 @@ __\*__ _使用是否需要授权？_
   
   
   如果你希望发布含有The Betweenlands模组的整合包，而所使用的模组安装有来自这里的汉化文件，
-
+  
   在你**遵守The Betweenlands模组本身的 *所有* 版权协议的前提下**，你可以发布它，只需要将模组的文件名带上
 
   __(MCMOD百科汉化)__
