@@ -15,7 +15,7 @@ From version Release 3.3.5, The Betweenlands is localized and needn't install th
 But this file may still be updated.   
 
 ___
-Minecraft模组The Betweenlands的中文本地化(汉化)文件。
+Minecraft模组The Betweenlands的简体中文本地化(汉化)文件。
 
 由于**自Release 3.3.5版本起，The Betweenlands模组自带此汉化文件的更新版本，**
 
